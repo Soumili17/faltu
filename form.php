@@ -55,7 +55,7 @@
 
     label {
       display: block;
-      margin-bottom: 6px;
+      margin-bottom: 5px;
       font-size: 0.9em;
       font-weight: 500;
     }
